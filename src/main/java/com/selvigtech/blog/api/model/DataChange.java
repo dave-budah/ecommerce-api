@@ -7,7 +7,7 @@ public class DataChange<T> {
     public DataChange() {
 
     }
-
+//    P@ssw8rd
     public DataChange(ChangeType changeType, T data) {
         this.changeType = changeType;
         this.data = data;
